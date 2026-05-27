@@ -1,0 +1,10 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-JWT-Extended
+Flask-Caching
+psycopg2-binary
+redis
+requests
+gunicorn
+python-dotenv
